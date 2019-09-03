@@ -1,6 +1,9 @@
 <style lang="scss">
 .page-index {
   height: 100%;
+  a:hover {
+    text-decoration: none;
+  }
   .r {
     display: flex;
     align-items: center;
@@ -96,36 +99,36 @@
   <div class="page-index">
     <div class="container1 clearfix">
       <div class="left fl">
-        <div class="r0 r">测试一</div>
+        <a href="http://www.ntmaimeng.com/f/UWqF3n"><div class="r0 r">监督取证</div></a>
       </div>
       <div class="right fl">
         <div class="top">
-          <div class="r1 r">测试一</div>
+          <a href="http://www.ntmaimeng.com/f/Pz6M4i"><div class="r1 r">人员点位</div></a>
         </div>
         <div class="bottom">
-          <div class="r2 r">测试一</div>
+          <a href="http://www.ntmaimeng.com/f/1BHTx0"><div class="r2 r">销售话术</div></a>
         </div>
       </div>
     </div>
     <div class="container2">
-      <div class="r3 r">测试一</div>
+      <div class="r3 r"></div>
     </div>
     <div class="container3 clearfix">
       <div class="left fl">
         <div class="top clearfix">
           <div class="left fl">
-            <div class="r4 r">测试一</div>
+            <a href="http://www.ntmaimeng.com/f/DFc51A"><div class="r4 r">考勤签到</div></a>
           </div>
           <div class="right fl">
-            <div class="r5 r">测试一</div>
+            <a href="http://www.ntmaimeng.com/f/1UOHg3"><div class="r5 r">有话要说</div></a>
           </div>
         </div>
         <div class="bottom">
-          <div class="r6 r">测试一</div>
+          <a href="http://www.ntmaimeng.com/f/qntQbj"><div class="r6 r">信息公告</div></a>
         </div>
       </div>
       <div class="right fl">
-        <div class="r7 r">测试一</div>
+        <a href="http://www.ntmaimeng.com/f/khrSUa"><div class="r7 r">呼唤炮火</div></a>
       </div>
     </div>
   </div>
