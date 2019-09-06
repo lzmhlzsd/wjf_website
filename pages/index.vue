@@ -47,7 +47,9 @@
   height: 30%;
   padding: 0 10px 10px;
   .r3 {
-    background: rgb(23, 222, 249);
+    // background: rgb(23, 222, 249);
+    background: url('~@/assets/2084.jpeg') no-repeat;
+    background-size: 100% 100%;
   }
 }
 .container3 {
@@ -117,18 +119,18 @@
       <div class="left fl">
         <div class="top clearfix">
           <div class="left fl">
-            <a href="http://www.ntmaimeng.com/f/DFc51A"><div class="r4 r">考勤签到</div></a>
+            <a href="https://biaodan100.com/web/formview/5d711021fc918f192e994b13"><div class="r4 r">考勤签到</div></a>
           </div>
           <div class="right fl">
             <a href="http://www.ntmaimeng.com/f/1UOHg3"><div class="r5 r">有话要说</div></a>
           </div>
         </div>
         <div class="bottom">
-          <a href="http://www.ntmaimeng.com/f/qntQbj"><div class="r6 r">信息公告</div></a>
+          <a href="http://www.ntmaimeng.com/f/hzA7qO"><div class="r6 r">新入网登记</div></a>
         </div>
       </div>
       <div class="right fl">
-        <a href="http://www.ntmaimeng.com/f/khrSUa"><div class="r7 r">呼唤炮火</div></a>
+        <a href="http://www.ntmaimeng.com/f/khrSUa"><div class="r7 r">联系我们</div></a>
       </div>
     </div>
   </div>
